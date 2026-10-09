@@ -1,0 +1,1 @@
+# VCM-EnergyMap : caractérisation énergétique
